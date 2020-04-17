@@ -2,4 +2,4 @@
 pierwsze repo
 
 
-to tu miała byc pierwsza zmiana - commit
+ pierwsza zmiana - commit
